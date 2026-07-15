@@ -1,17 +1,15 @@
 {
   "user_id": "_telemetry_test",
   "nickname": "",
-  "updated": "2026-07-15T08:50:13Z",
+  "updated": "2026-07-15T08:51:22Z",
   "session_min": 0.0,
   "version": "TEST",
   "gpu": "CPU",
   "screen": "1x1",
-  "puzzles_seen": 1,
-  "solved_green": 0,
+  "puzzles_seen": 0,
+  "solved_green": 1,
   "placed_no_green": 0,
   "kicked_or_timeout": 0,
   "avg_solve_s": null,
-  "recent": [
-    "11:50:13 [RESULT] test: KICKED 5.0s"
-  ]
+  "recent": []
 }
