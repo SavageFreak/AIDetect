@@ -1,0 +1,6 @@
+{
+  "detector_version": "1.0.0",
+  "asset": "detector_model.zip",
+  "asset_url": "https://github.com/SavageFreak/AIDetect/releases/download/v1.1.15/detector_model.zip",
+  "sha256": "e6a35b615010f6a7366f266c45c5f6703623dccd8eb09215fedd0b1566b25c2f"
+}
